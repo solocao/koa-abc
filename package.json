@@ -1,0 +1,13 @@
+{
+  "name": "koa-abc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/solocao/koa-abc.git",
+  "author": "solocao <solocao@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-route": "^3.2.0",
+    "koa-static": "^4.0.1"
+  }
+}
